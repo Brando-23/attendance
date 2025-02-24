@@ -1,0 +1,54 @@
+#tab {
+  width: 100%;
+  padding: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 10px;
+  text-align: center;
+  border: 1px solid #ddd;
+}
+
+#tab th {
+  background-color: #007bff;
+  color: white;
+}
+
+button {
+  padding: 5px 10px;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.btn-success {
+  background-color: green;
+  color: white;
+}
+
+.btn-danger {
+  background-color: red;
+  color: white;
+}
+
+.btn-primary {
+  margin-top: 10px;
+}
+.cont{
+ margin-top: 150px;
+ display: flex;
+ gap: 20px;
+ flex-direction: row;
+margin-left: 300px;
+ 
+}
+
+
+
+
+
